@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{83064943-8E4B-3683-BB72-1E209872ABF8}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WorldData.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WorldGameObject.cs" Line="37" Column="46" />
+      <File FileName="Assets/Scripts/WorldData.cs" Line="7" Column="43" />
+      <File FileName="Assets/Scripts/ChunkData.cs" Line="43" Column="2" />
+      <File FileName="Assets/Scripts/VoxelCube.cs" Line="34" Column="64" />
+      <File FileName="Assets/Scripts/VoxelTools.cs" Line="34" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
