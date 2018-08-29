@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3EED97F7-28D3-71D0-9D52-37E2444FB5D3}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraFreeFlight.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraFreeFlight.cs" Line="79" Column="1" />
+      <File FileName="Assets/Scripts/MouseLook.cs" Line="61" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
